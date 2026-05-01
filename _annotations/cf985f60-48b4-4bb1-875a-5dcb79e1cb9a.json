@@ -1,0 +1,25 @@
+---
+canvas: "https://media.nga.gov/public/manifests/canvas/106382.json"
+order: 5
+---
+{
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://media.nga.gov/public/manifests/nga_highlights.json",
+                "type": "Manifest"
+            },
+            "id": "https://media.nga.gov/public/manifests/canvas/106382.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"5762.6956787109375\" cy=\"5465.513916015625\" r=\"5442.862833046986\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cf985f60-48b4-4bb1-875a-5dcb79e1cb9a.json",
+    "motivation": "commenting"
+}
