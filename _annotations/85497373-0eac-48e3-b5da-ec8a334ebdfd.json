@@ -1,0 +1,28 @@
+---
+canvas: "https://media.nga.gov/public/manifests/canvas/106382.json"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://media.nga.gov/public/manifests/nga_highlights.json",
+                "type": "Manifest"
+            },
+            "id": "https://media.nga.gov/public/manifests/canvas/106382.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"10632.1484375,2786.52587890625 11754.4794921875,11172.3662109375 11754.4794921875,11172.3662109375 10632.1484375,2786.52587890625\" /></svg>"
+        },
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "85497373-0eac-48e3-b5da-ec8a334ebdfd.json",
+    "motivation": "commenting"
+}
